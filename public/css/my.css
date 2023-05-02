@@ -1,0 +1,38 @@
+body {
+	background: #F6F6F6;
+}
+.navbar {
+	background: #fff !important;
+	height: 80px;
+}
+.navbar a {
+	color: #000 !important;
+}
+.navbar a:hover {
+	color: #ccc !important;
+}
+.container_main {
+    background: #fff;
+    padding-top: 30px;
+    border-radius: 5px;
+    padding-bottom: 30px;
+}
+.banner_logo {
+
+
+}
+.project_all {
+	margin-top: 50px;
+}
+header {
+	font-weight: 700;
+
+}
+.my_btn{
+	background: #8B4513	 !important;
+	color: #fff;
+}
+.my_btn:hover{
+	color: #fff;
+	background: #8B4513 !important;
+}

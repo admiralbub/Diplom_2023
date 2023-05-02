@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+
+ul.accordion-list {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 20px;
+  margin: 0;
+  list-style: none;
+  background-color: #f9f9fA;
+}
+.main_info_projects {
+   display: flex;
+   justify-content: space-between;
+}
+ul.accordion-list li {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+  background-color: #FFF;
+  padding: 20px;
+  margin: 0 auto 15px auto;
+  border: 1px solid #696969;
+  border-radius: 5px;
+  cursor: pointer;
+}
+ul.accordion-list li.active h3:after {
+  transform: rotate(45deg);
+}
+ul.accordion-list li .main_info_orders {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+ul.accordion-list li h3 {
+  font-weight: 700;
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 0 0 0 0;
+  margin: 0;
+  font-size: 15px;
+  letter-spacing: 0.01em;
+  cursor: pointer;
+}
+ul.accordion-list li h3 .left_up {
+  content: "↓";
+  font-family: "material-design-iconic-font";
+  position: absolute;
+  /* right: -200px; */
+  left: 820px;
+  top: 40px;
+  /* color: #Fcc110; */
+  transition: all 0.3s ease-in-out;
+  font-size: 25px;
+}
+ul.accordion-list li div.answer {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
+ul.accordion-list li div.answer .info-section_ord {
+  margin-bottom: 20px;
+}
+ul.accordion-list li div.answer .info_ord {
+  font-size: 14px;
+  line-height: 32px;
+}
+ul.accordion-list li div.answer .info_pay_order {
+  font-size: 18px;
+  line-height: 32px;
+}
+ul.accordion-list li div.answer .table_project_tovar {
+  font-size: 12px;
+}
+ul.accordion-list li div.answer .link_edit_order {
+  font-size: 16px;
+  color: #3e77aa;
+  font-weight: 600;
+}
+ul.accordion-list li div.answer .button_history_order {
+  border: 0;
+  background-color: #00a046;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+ul.accordion-list li div.answer .main_pay_order {
+  text-align: right;
+}
+ul.accordion-list li div.answer p {
+  position: relative;
+  display: block;
+  font-weight: 300;
+  padding: 10px 0 0 0;
+  cursor: pointer;
+  line-height: 150%;
+  margin: 0 0 15px 0;
+  font-size: 14px;
+}
+
