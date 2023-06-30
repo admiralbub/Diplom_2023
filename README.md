@@ -1,61 +1,32 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+# Community Financing of Creative Projects
 
-## About Laravel
+## Introduction
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+This document presents an overview of the object of follow-up, the subject of the study, and the Meta Robotics software development for supporting public financing of creative projects. It also outlines the materials, methods, and technical data utilized in the development process. Furthermore, the results of this work are discussed, highlighting the main outcome of creating secure software that facilitates the collection of funds for promoting various creative projects. Finally, conclusions are drawn, emphasizing the importance of expanded software security for supporting cultural and mystical initiatives, while also enabling increased marketing and project promotion efforts.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Object of Follow-up
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+The object of follow-up in this study is the process of community financing of creative projects. This refers to the act of collecting funds from a community of individuals to support and enable the development of various creative endeavors.
 
-## Learning Laravel
+## Subject of the Study
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+The subject of the study revolves around the program of public finance for creative projects. This program focuses on providing financial support and resources to creative projects and initiatives through public funding mechanisms.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Meta Robotics
+Software Development for Public Funding Support
+Meta Robotics is a software development initiative that aims to support the public financing of creative projects. Its primary goal is to create software that enhances the collection of funds for promoting diverse creative projects and simplifies the overall development process.
 
-## Laravel Sponsors
+## Materials, Methods, and Technical Data
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+The development of Meta Robotics software relies on the utilization of specific materials, methods, and technical data. The programming language PHP is employed, along with the Laravel web framework, to build the software's foundation. Additionally, a MySQL database traversal system is implemented to efficiently manage and process data associated with the public financing program.
 
-### Premium Partners
+## Results
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
+The main result of this work is the creation of secure software that provides a robust tool for collecting funds to support a wide range of creative projects and initiatives. This software offers unique features tailored to the needs of such projects and simplifies the overall creative process. The results also encompass the program itself and provide a comprehensive description of how it was developed and implemented.
 
-## Contributing
+## Conclusions
+The expanded software security provided by Meta Robotics is crucial for efficiently selecting and allocating funds to support various cultural and mystical initiatives. By utilizing this software, organizations and individuals can optimize their spending on marketing and project promotion, thereby attracting more contributors and enhancing the overall success of creative projects.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## Field of Application
+The application of Meta Robotics extends to the entire sphere of culture and art. It is not only relevant for creative projects but also encompasses social acceptance and charitable organizations that seek to fund and promote initiatives related to culture and the arts.
